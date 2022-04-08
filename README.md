@@ -23,8 +23,8 @@ System Analysis and Development student at [FATEC - Prof. Jessen Vidal in São J
 
 ## 👨‍🚀 Follow me on:
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianrsilva/)
-[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/willian-rodrigues)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sousa-62bb641a8/)
+
 
 ## 📧 Contact me on:
 
@@ -35,6 +35,6 @@ System Analysis and Development student at [FATEC - Prof. Jessen Vidal in São J
 
 <div align="left">
   <a href="https://github.com/PedroSousaLopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSousaLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousaLopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
