@@ -1,4 +1,4 @@
-![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![Pedro](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 # Hey, I'm Pedro Sousa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -34,7 +34,7 @@ System Analysis and Development student at [FATEC - Prof. Jessen Vidal in São J
 ## ➤ My stats:
 
 <div align="left">
-  <a href="https://github.com/Willian-Rodrigues">
+  <a href="https://github.com/PedroSousaLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
