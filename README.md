@@ -29,7 +29,7 @@ System Analysis and Development student at [FATEC - Prof. Jessen Vidal in São J
 ## 📧 Contact me on:
 
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5538998041971) 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.rsilva1994@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosousa4304@gmail.com)
 
 ## ➤ My stats:
 
